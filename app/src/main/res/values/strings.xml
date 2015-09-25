@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">MapboxGLExample</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--  Mapbox Access Token -->
+    <string name="accessToken"></string>
+
+    <!-- Mapbox Default Styles -->
+    <string name="style_url_dark">asset://styles/dark-v8.json</string>
+    <string name="style_url_emerald">asset://styles/emerald-v8.json</string>
+    <string name="style_url_light">asset://styles/light-v8.json</string>
+    <string name="style_url_mapbox_streets">asset://styles/streets-v8.json</string>
+    <string name="style_url_satellite">asset://styles/satellite-v8.json</string>
+
 </resources>
