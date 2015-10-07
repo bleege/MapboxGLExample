@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.mapbox.mapboxgl.views.MapView;
+import com.mapbox.mapboxsdk.views.MapView;
 
 public class MainActivity extends AppCompatActivity {
 
